@@ -16,6 +16,7 @@ You are tasked with creating an E-wallet Django REST API with the following feat
 - Retrieving a list of wallet records
 - Retrieving a single wallet record
 - Transfer funds between two wallets
+  - The source wallet should have enough balance to transfer to the destination wallet
 
 ## Expectations
 
