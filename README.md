@@ -28,4 +28,4 @@ Besides the business requirements above, you are expected to use / provide the f
   `For what purpose would a developer need to document their APIs?`
 
 
-# Time limit: 2.5 hours
+# Time limit: 3 hours
