@@ -8,7 +8,7 @@ You are tasked with creating an E-wallet Django REST API with the following feat
     - First Name
     - Last Name
     - Mobile Number
-    - Email
+    - Email - Should be unique
     - Birthday
     - Initial wallet balance
 - Updating a wallet record
