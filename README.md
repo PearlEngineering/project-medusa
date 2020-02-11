@@ -7,8 +7,7 @@ You are tasked with creating an E-wallet Django REST API with the following feat
   - To be able to create a wallet, the client should provide the following:
     - First Name
     - Last Name
-    - Mobile Number - Should be unique across wallet records
-    - Email - Should be unique across wallet records
+    - Email - Should be unique across wallet records, should be a valid email
     - Birthday - Format should be YYYY-MM-dd
     - Initial wallet balance
 - Updating a wallet record
