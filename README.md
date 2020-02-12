@@ -1,7 +1,7 @@
 # Python / Django Developer Exam
 
 ## Instructions:
-Fork this repo with your solution. We want to see your progression through commits (don’t commit the entire solution in 1 step) and don't forget to create a README.md to explain your thought process and also provide instructions on how to serve and test the endpoint locally.
+Fork this repo with your solution. Don't forget to create a README.md to explain your thought process and also provide instructions on how to serve and test the endpoint locally.
 
 ## Details  
 You are tasked with creating an E-wallet Django REST API with the following features:
